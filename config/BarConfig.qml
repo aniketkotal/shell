@@ -50,6 +50,11 @@ JsonObject {
         {
             id: "idleInhibitor",
             enabled: false
+        },
+        {
+            id: "hyprsunset",
+            enabled: true,
+            temperature: 2500
         }
     ]
 
